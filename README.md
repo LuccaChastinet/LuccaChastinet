@@ -9,7 +9,10 @@ About me:
 - 🐝 In my free time I solve problems in BeeCrowd (All of my answers to the problems are here in GitHub)
 - 💻 I study courses outside the university, so I can learn more about IT automation, Data Analysis and Machine Learning (Until now: 25/07/2022)
 
-- 📱 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-chastinet-430087235/)
+- 📱 How to reach me: <div id="badges">
+  <a href="https://www.linkedin.com/in/lucca-chastinet-430087235/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </div>
 
 <!--
 **LuccaChastinet/LuccaChastinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
