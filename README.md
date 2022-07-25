@@ -16,7 +16,7 @@ About me:
   <a href="https://api.whatsapp.com/send?phone=5571983889079">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge">
   </a>
-  <a href="luccachastinet20@gmail.com">
+  <a href="mailto:luccachastinet20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt= "Gmail Badge">
   </a>
   </div>
