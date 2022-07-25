@@ -19,7 +19,7 @@ About me:
   </div>
   
 - Languages and Tools:
-  <img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt= "Python Badge"> <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt= "MYSQL Badge">
+  <img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt= "Python Badge"> <img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt= "MYSQL Badge"> <img src= "	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt= "R Badge">
 
 <!--
 **LuccaChastinet/LuccaChastinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
