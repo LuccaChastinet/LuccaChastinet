@@ -28,7 +28,7 @@ About me:
 - Tools:
 
   <img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  ![Podman](https://a11ybadges.com/badge?logo=podman)
+  <img src = "https://a11ybadges.com/badge?logo=podman">
   <img src = "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src = "https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
