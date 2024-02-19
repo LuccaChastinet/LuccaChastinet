@@ -1,13 +1,11 @@
 ### Hello! My name is Lucca
 
-I'm a student at Federal University of Bahia in Brazil, coursing Computer Engineering
+I'm a student at Senai Cimatec, coursing Data Analytics and Artificial Intelligence
 
 About me:
 
-- ⌨️ I'm currently learning Python, SQL, R and C#
+- ⌨️ DevOps Engineer/Cloud Engineer
 - 🤝 I'm looking to know more people that loves programming and studying it as I do.
-- 🐝 In my free time I solve problems in BeeCrowd (All of my answers to the problems are here in GitHub)
-- 💻 I study courses outside the university, so I can learn more about IT automation, Data Analysis and Machine Learning (Until now: 25/07/2022)
 
 - 📱 How to reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/lucca-chastinet-430087235/">
@@ -28,6 +26,10 @@ About me:
 - Cloud:
   
   <img src = "https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src = "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+
+- Infrastructure as Code and Pipelines:
+
+  <img src = "https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"> <img src = "https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"> 
 
 
 <!--
