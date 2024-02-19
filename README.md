@@ -45,6 +45,7 @@ About me:
 - CI/CD:
 
   <img src = "https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"> 
+  <img src = "https://media.licdn.com/dms/image/D5612AQH5Ev92z-K8Ww/article-cover_image-shrink_600_2000/0/1690549787461?e=1714003200&v=beta&t=HPwl7NsbU2qK79O2070G2BgdGJlFmYvAX0lSk4UZBvA">
 
 <!--
 **LuccaChastinet/LuccaChastinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
