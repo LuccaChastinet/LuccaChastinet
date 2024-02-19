@@ -38,10 +38,14 @@ About me:
   <img src = "https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img src = "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 
-- Infrastructure as Code and Pipelines:
+- Infrastructure as Code:
 
   <img src = "https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
+
+- CI/CD:
+
   <img src = "https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"> 
+  <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftektoncd&psig=AOvVaw36S5qjxHgp5-R-l9h1aHuf&ust=1708400299888000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPi8q5i9toQDFQAAAAAdAAAAABAE"> 
 
 
 <!--
